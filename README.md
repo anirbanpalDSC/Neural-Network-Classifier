@@ -15,7 +15,7 @@ To execute this project, you will need the following applications -
 This particular project does not require any installation other than the required softwares mentioned above.
 
 ## Usage
-This section will be updated as the project is developed.
+In both cases (keras and scikit), the respective data files are too big to upload. Therefore, the data has been reduced to 10000 records in each cases.
 
 ## Project Status
 Project work in progress and will be constantly updated.
