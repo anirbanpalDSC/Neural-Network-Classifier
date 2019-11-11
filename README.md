@@ -9,7 +9,7 @@ To execute this project, you will need the following applications -
 
 * Pythnon 3 (or Anaconda distribution with Python 3)
 * Jupyter or any other notebook
-* Python libraries: pandas, numpy, json, re, pickle, nltk, sklearn
+* Python libraries: pandas, numpy, json, re, pickle, nltk, sklearn, keras
 
 ## Installing
 This particular project does not require any installation other than the required softwares mentioned above.
